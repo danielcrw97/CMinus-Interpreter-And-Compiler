@@ -6,7 +6,9 @@ It is functional in the sense that functions can return functions, and functions
 
 The language also supports basic print_string, read_int and print_int functions for input and output.
 
-See the examples for the sort of programs it can interpret. Copy and paste these examples into input.c (the input file), then build and run the program to interpret/compile the input.
+See the examples for the sort of programs it can interpret. Copy and paste these examples into input.c (the input file), then build and run main.cpp to interpret/compile the input.
+
+Note that comments are not supported for CMinus, and therefore cannot be used in the input file!
 
 Example of functional composition that can be interpreted:
 ```
